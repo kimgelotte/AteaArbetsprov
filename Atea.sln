@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atea", "Atea\Atea.csproj", "{8CFD64B9-8450-43B6-A970-6572DA3349EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AteaTests", "AteaTests\AteaTests.csproj", "{7D44357C-3BE2-4D6A-B450-246AED1613A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AteaWeb", "AteaWeb\AteaWeb.csproj", "{F4DE40E8-725C-44A3-8B06-7D8A3B823E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CFD64B9-8450-43B6-A970-6572DA3349EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFD64B9-8450-43B6-A970-6572DA3349EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFD64B9-8450-43B6-A970-6572DA3349EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFD64B9-8450-43B6-A970-6572DA3349EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D44357C-3BE2-4D6A-B450-246AED1613A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D44357C-3BE2-4D6A-B450-246AED1613A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D44357C-3BE2-4D6A-B450-246AED1613A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D44357C-3BE2-4D6A-B450-246AED1613A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4DE40E8-725C-44A3-8B06-7D8A3B823E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DE40E8-725C-44A3-8B06-7D8A3B823E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DE40E8-725C-44A3-8B06-7D8A3B823E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DE40E8-725C-44A3-8B06-7D8A3B823E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
